@@ -31,4 +31,4 @@ Este projeto é uma página de dashboard administrativa estática, construída u
 
 ## Licença
 
-Este projeto não possui uma licença explícita definida no repositório.
+Esse projeto está sobre a licença MIT.
